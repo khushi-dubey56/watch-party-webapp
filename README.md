@@ -2,7 +2,8 @@
 
 Watch YouTube videos together in real time. Everyone in a room sees the same video, the same play/pause state and the same position. Rooms have roles, and the server enforces what each role may do.
 
-**Live demo:** `https://YOUR-APP-NAME.onrender.com` (replace after deploying)
+**Live demo:** ` https://watch-party-webapp.onrender.com
+` 
 
 ## Features
 
@@ -97,8 +98,8 @@ npm start            # http://localhost:3001 serves everything
    - **Runtime:** Node
    - **Build Command:** `npm run build`
    - **Start Command:** `npm start`
-4. Deploy. Render gives you a public `https://...onrender.com` URL. Put it at the top of this README.
-
+4. Deploy. Render gives you a public ` https://watch-party-webapp.onrender.com
+`
 Notes: the free tier sleeps after inactivity, so the first load can take about 30-60 seconds. Rooms are in memory, so a server restart clears them.
 
 ## Architecture overview
